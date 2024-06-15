@@ -1,6 +1,14 @@
 ### Hi there 👋
 I'm Santiago. Lawyer and Code lover.
 
+My Projects:
+
+- ⭐⭐⭐ 🤖 [Awesome AI Chatbots](https://github.com/santiagoxlopez/awesome-ai-chatbots)
+- ⭐⭐⭐ 🧑‍💼 [Awesome Project Management](https://github.com/santiagoxlopez/awesome-project-management)
+- ⭐⭐⭐ ⏰ [Awesome Time Management](https://github.com/santiagoxlopez/awesome-time-management)
+- ⭐⭐⭐ ♻️ [Awesome Habit Building](https://github.com/santiagoxlopez/awesome-habit)
+- ⭐⭐⭐ 📓 [Awesome Note-taking](https://github.com/santiagoxlopez/awesome-note-taking)
+
 
 
 <!--
